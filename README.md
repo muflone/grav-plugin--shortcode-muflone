@@ -1,9 +1,7 @@
 # Grav Shortcode Muflone Plugin
 
-
 `shortcode-muflone` is a [Grav][grav] Plugin specific to the Grav Theme Muflone
 to complete some of its features, mainly to add some page shortcuts.
-
 
 # Installation
 
