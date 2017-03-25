@@ -33,6 +33,10 @@ To use this plugin insert in any page the following tag:
 
 ![Shortcode Muflone Install from Source](samples/muflone-install-3.png)
 
+    [muflone-install type="debian" package="gnome-appfolders-manager"][/muflone-install]
+
+![Shortcode Muflone Install for Debian](samples/muflone-install-4.png)
+
 ## Shortcode for the License snippet
 
     [muflone-license type="index" package="cpucompare" name="CPUCompare"][/muflone-license]
