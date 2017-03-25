@@ -1,0 +1,30 @@
+name: Shortcode Muflone
+version: 0.3.0
+description: Shortcodes for the Muflone theme
+icon: code
+author:
+  name: Muflone
+  email: webreg@vbsimple.net
+homepage: https://github.com/muflone/grav-plugin-shortcode-muflone
+demo: https://github.com/muflone/grav-plugin-shortcode-muflone/blob/master/README.md
+keywords: plugin, twig, shortcode, download, install, license, translations, snippets
+bugs: https://github.com/muflone/grav-plugin-shortcode-muflone/issues
+docs: 
+license: GPL
+
+dependencies:
+  - shortcode-core
+
+form:
+  validation: strict
+  fields:
+    enabled:
+      type: toggle
+      label: Plugin status
+      highlight: 1
+      default: 0
+      options:
+        1: Enabled
+        0: Disabled
+      validate:
+        type: bool
