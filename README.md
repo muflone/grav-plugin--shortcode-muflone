@@ -23,15 +23,15 @@ To use this plugin insert in any page the following tag:
 
     [muflone-install type="index" package="cpucompare" name="CPUCompare"][/muflone-install]
 
-![Shortcode Muflone Install 1](samples/muflone-install-1.png)
+![Shortcode Muflone Install for index page](samples/muflone-install-1.png)
 
     [muflone-install type="archlinux" package="" aurpackage="cpucompare" development="cpucompare-git"][/muflone-install]
 
-![Shortcode Muflone Install 2](samples/muflone-install-2.png)
+![Shortcode Muflone Install for Arch Linux](samples/muflone-install-2.png)
 
     [muflone-install type="source" package="cpucompare" name="CPUCompare"][/muflone-install]
 
-![Shortcode Muflone Install 3](samples/muflone-install-3.png)
+![Shortcode Muflone Install from Source](samples/muflone-install-3.png)
 
 ## Shortcode for the License snippet
 
