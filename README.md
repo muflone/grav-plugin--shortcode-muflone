@@ -13,7 +13,7 @@ Then, rename the folder to `shortcode-muflone`.
 
 You should now have all the plugin files under
 
-  /your/site/grav/user/plugins/shortcode-muflone
+    /your/site/grav/user/plugins/shortcode-muflone
 
 # Usage for content authors
 
